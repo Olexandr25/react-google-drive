@@ -1,0 +1,1 @@
+export { default as DOCUMENT_TYPES } from "./documentTypes"

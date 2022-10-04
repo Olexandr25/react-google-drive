@@ -1,0 +1,20 @@
+:root {
+  /* Font weight */
+  --fw-bold: 700;
+  --fw-semibold: 600;
+  --fw-medium: 500;
+  --fw-regular: 400;
+
+  --body1-fs: 1.125rem; /* 18px */
+  --body2-fs: 1rem; /* 16px */
+  --caption1-fs: 0.875rem; /* 14px */
+  --caption2-fs: 0.75rem; /* 12px */
+
+  --body1-lh: 1.5rem; /* 24px */
+  --body2-lh: 1.25rem; /* 20px */
+  --caption1-lh: 1.25rem; /* 20px */
+  --caption2-lh: 1.25rem; /* 20px */
+
+  --logo-fs: 1.375rem; /* 22px */
+  --logo-lh: 1.5rem; /* 24px */
+}

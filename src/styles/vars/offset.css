@@ -1,0 +1,12 @@
+:root {
+  --offset-0: 0;
+  --offset-2: 0.125rem;
+  --offset-4: 0.25rem;
+  --offset-8: 0.5rem;
+  --offset-16: 1rem;
+  --offset-24: 1.5rem;
+  --offset-32: 2rem;
+  --offset-40: 2.5rem;
+  --offset-48: 3rem;
+  --offset-64: 4rem;
+}

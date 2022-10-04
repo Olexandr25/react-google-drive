@@ -1,0 +1,7 @@
+:root {
+  --primary: rgb(95, 99, 104);
+  --secondary: rgb(60, 64, 67);
+  --accent: rgb(232, 240, 254);
+
+  --icon-color: var(--primary);
+}
